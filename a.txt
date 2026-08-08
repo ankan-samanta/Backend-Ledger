@@ -1,7 +1,0 @@
-MecyCXf0SgkofriC
-mongodb+srv://yt_banking:MecyCXf0SgkofriC@yt-banking.0jcpdvy.mongodb.net/
-
-1.register
-2.login
-3.send msg funcalities
-4.
