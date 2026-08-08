@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: true }));
 
 /* use routes */
 app.use("/",(req,res)=>{
-    res.send("ledgeservice is up and running")
+    res.send("ledger service is up and running")
 })
 
 app.use("/api/auth",authRouter);
